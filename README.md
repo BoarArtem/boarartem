@@ -10,7 +10,7 @@ I'm interested in AI
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,r,mongo&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,r,mongo, redis, node.js, typescript, javascript, nest.js, prisma&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,linux,git,docker,ubuntu,windows,arch&perline=7" />
     <h3>Software</h3>
