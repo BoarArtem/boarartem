@@ -3,14 +3,13 @@
 
 Hi! My name is Artem)
 
-I'm a Machine Learning developer from Ukraine. CEO in E-Corp
+I'm a Fullstack developer from Ukraine. 
 
-I'm interested in AI
 
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,r,mongo&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py, js&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,linux,git,docker,ubuntu,windows,arch&perline=7" />
     <h3>Software</h3>
