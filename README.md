@@ -6,15 +6,9 @@ Hi! My name is Artem)
 I'm a Fullstack developer from Ukraine. 
 
 
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <summary><h2><b>📚 Tech stack</b></h2></summary>
   <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py, js&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,linux,git,docker,ubuntu,windows,arch&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,pycharm,postman,discord&perline=7" />
-    <br>
+    <img src="https://skillicons.dev/icons?i=py,js,react,html,css,express,angular,figma,sqlite,postgres,mongo,vscode,pycharm,webstorm&perline=7" />
   </p>
 </details>
 
