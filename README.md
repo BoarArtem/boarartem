@@ -8,7 +8,7 @@ I'm a Fullstack developer from Ukraine.
 
   <summary><h2><b>📚 Tech stack</b></h2></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,js,react,html,css,express,angular,figma,sqlite,postgres,mongo,vscode,pycharm,webstorm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,express,angular,figma,sqlite,postgres,mongo,vscode,pycharm,webstorm&perline=7" />
   </p>
 </details>
 
