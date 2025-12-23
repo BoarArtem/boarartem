@@ -3,12 +3,12 @@
 
 Hi! My name is Artem)
 
-I'm a Fullstack developer from Ukraine. 
+I'm a Backend developer from Ukraine. 
 
 
   <summary><h2><b>📚 Tech stack</b></h2></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,express,angular,figma,sqlite,postgres,mongo,vscode,pycharm,webstorm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nest,js,ts,express,figma,sqlite,postgres,mongo,docker,vscode,pycharm,webstorm&perline=7" />
   </p>
 </details>
 
