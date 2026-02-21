@@ -1,37 +1,18 @@
 <h1>Hi! My name is Artem)</h1>
-<h3>I'm junior backend developer</h3>
-
-
-
-
-
-<hr>
-
-
-<h3>🚀 About Me</h3>
-<h3> Backend developer specializing in creating structured and scalable web applications using JavaScript/TypeScript technologies. Proficient in Node.js, NestJS, REST API development, relational databases, and Docker. I love and support clean code and actively use Github. I am a team player who values communication. I am also actively seeking to deepen my knowledge in the field of backend development and contribute my knowledge to your project. </h3>
-
-
-
-
-
-
-
-<hr>
-
+<h3>I'm junior NLP engineer</h3>
 
 <h3>🛠️ Tech Stack</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,npm,nodejs,nest"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
 <p>
-   <img src="https://skillicons.dev/icons?i=notion,webstorm,vscode,postman" />
+   <img src="https://skillicons.dev/icons?i=notion,pycharm,vscode,postman" />
 </p>
 <p>
    <img src="https://skillicons.dev/icons?i=mongo,sqlite,postgresql" />
 </p>
 <p>
-   <img src="https://skillicons.dev/icons?i=docker,nginx,aws" />
+   <img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
 <p>
    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
