@@ -1,5 +1,4 @@
 <h1>Hi! My name is Artem)</h1>
-<h3>I'm junior NLP engineer</h3>
 
 <h3>🛠️ Tech Stack</h3>
 <p>
