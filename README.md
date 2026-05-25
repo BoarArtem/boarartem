@@ -2,7 +2,7 @@
 
 <h3>🛠️ Tech Stack</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch"/>
 </p>
 <p>
    <img src="https://skillicons.dev/icons?i=notion,pycharm,vscode,postman" />
